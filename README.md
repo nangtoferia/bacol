@@ -1,2 +1,1 @@
-# bacol
-bacol
+# [bacol](https://bacol.pages.dev)
